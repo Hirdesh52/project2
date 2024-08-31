@@ -1,0 +1,26 @@
+
+User Input:
+
+1.Prompt the user to enter a sentence or paragraph.
+2.Use the input() function to capture this input.
+   
+Word Counting Logic:
+
+1.Split the input string into a list of words.
+2.Count the number of words in the list.
+
+Output Display:
+
+1.Print the word count in a clear and user-friendly way.
+
+Error Handling:
+
+1.Check if the input is empty. If it is, display an appropriate message and prompt the user to enter a valid text.
+
+Code Comments:
+
+1.Add comments to explain each part of your code.
+
+User-Friendly Interface:
+
+1.Make sure the prompts and outputs are easy to understand and guide the user through the process.
