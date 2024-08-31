@@ -1,0 +1,15 @@
+Explanation of the Code:
+count_words Function:
+
+Input: A string of text.
+Output: The number of words in the text.
+Process: The text is split into words using the split() method, which by default splits the string by whitespace (spaces, tabs, newlines). The length of the resulting list (len(words)) gives the word count.
+main Function:
+
+User Input: Prompts the user to enter a sentence or paragraph.
+Error Handling: Checks if the input is empty or only contains whitespace using strip(). If empty, it prints an error message.
+Word Counting: Calls the count_words function to count the words in the input.
+Output: Prints the word count in a clear and user-friendly format.
+Script Execution:
+
+The if __name__ == "__main__": block ensures that the main function is called only when the script is run directly, not when it is imported as a module.
